@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a59d1027-8af8-4e22-9786-5c409e7e3ecf" name="Default" comment="" />
+    <list default="true" id="a59d1027-8af8-4e22-9786-5c409e7e3ecf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,32 +74,57 @@
       <profile-state>
         <expanded-state>
           <State>
-            <id />
+            <id>Android</id>
           </State>
           <State>
-            <id>Abstraction issuesJava</id>
+            <id>Android &gt; Lint &gt; Correctness</id>
           </State>
           <State>
-            <id>Ali-Check</id>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
           </State>
           <State>
-            <id>Google Web Toolkit issues</id>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
           </State>
           <State>
             <id>Java</id>
           </State>
           <State>
-            <id>Security issuesJava</id>
+            <id>Kotlin</id>
           </State>
           <State>
-            <id>Serialization issuesJava</id>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>XPath</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>SerializableHasSerialVersionUIDField</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -142,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.7" />
@@ -254,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555244749687</updated>
-      <workItem from="1555244751560" duration="237000" />
+      <workItem from="1555244751560" duration="521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237000" />
+    <option name="totallyTimeSpent" value="521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1848" height="1098" extended-state="6" />
